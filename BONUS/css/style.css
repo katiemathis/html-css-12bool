@@ -17,7 +17,7 @@
 
 .col-8 {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
 }
 
 img {
@@ -33,9 +33,10 @@ img {
 p {
     font-size: 120px;
     margin: 0;
-    padding: 0;
+    padding-left: 20px;
     text-align: left;
     line-height: 100px;
+
 
 
 }
