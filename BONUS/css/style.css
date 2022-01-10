@@ -1,4 +1,6 @@
-.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-9, .col-10, .col-11, .col-12 {
+/* PLAQUE RULES */
+
+.plaque .col-1, .plaque .col-2, .plaque .col-3, .plaque .col-4, .plaque .col-5, .plaque .col-6, .plaque .col-7, .plaque .col-9, .plaque .col-10, .plaque .col-11, .plaque .col-12 {
     background-color: black;
     min-height: 50px;
     padding: 10px;
@@ -15,7 +17,7 @@
     flex-wrap: wrap;
 }
 
-.col-8 {
+.plaque .col-8 {
     display: flex;
     align-items: flex-end;
 }
@@ -24,7 +26,7 @@ img {
     width: 90%;
 }
 
-.container-reduced {
+.plaque {
     max-width: 1100px;
     margin: auto;
 }
@@ -36,7 +38,6 @@ p {
     padding-left: 20px;
     text-align: left;
     line-height: 100px;
-
-
-
 }
+
+
