@@ -14,7 +14,7 @@
     flex-wrap: wrap;
 }
 
-#nested {
+.nested {
     background-color: chartreuse;
     text-align: center;
     line-height: 2;
