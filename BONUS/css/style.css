@@ -1,4 +1,6 @@
-/* PLAQUE RULES */
+body {
+    background-color: #D5D6Da;
+}
 
 .plaque .col-1, .plaque .col-2, .plaque .col-3, .plaque .col-4, .plaque .col-5, .plaque .col-6, .plaque .col-7, .plaque .col-9, .plaque .col-10, .plaque .col-11, .plaque .col-12 {
     background-color: black;
@@ -38,6 +40,12 @@ p {
     padding-left: 20px;
     text-align: left;
     line-height: 100px;
+}
+
+.white-space {
+    min-height: 40px;
+    background-color: #D5D6Da;
+    color: #D5D6Da;
 }
 
 
